@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Iniciante em JavaScript, HTML5 e CSS3, aprendendo SCRUM
+  🦄 Linguagens: Iniciante em C++, HTML5 e CSS3.
 </p>
 
 <p align="left">
