@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Iniciante em C++, HTML5 e CSS3.
+  🦄 Linguagens: Iniciante em C/C++, JavaScript, Phaser.js .
 </p>
 
 <p align="left">
-  💼 Ferramentas: Visual Studio, Trello, SCRUM, Jira
+  💼 Ferramentas: Visual Studio, Trello, SCRUM, Jira, Project Libre.
 </p>
 
 <p align="left">
