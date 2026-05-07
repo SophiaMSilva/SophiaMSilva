@@ -4,8 +4,7 @@
   Meu nome é Sophia Machado, estudante de Engenharia de Software 5/8, atualmente trabalho como supervisora de marketing na empresa Muniz Auto Center, estou no migração para área de Tecnologia.
 
   <p align="left"> 
-    <strong>  Procuro aplicar meus conhecimentos tanto para área de desenvolvimento quando gestão de projetos para desenvolver soluções eficientes e otimizar processos com foco em qualidade e resultados. Domínio Espanhol e inglês intermediário.</strong>
-  </p>
+    Procuro aplicar meus conhecimentos tanto para área de gestão de projetos quanto no desenvolvimento a nivel de codigo quanto criações de processos com foco em qualidade e resultados. Domínio Espanhol e inglês intermediário.
 
 </p>
 
