@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Sophia Machado, estudante de Engenharia de Software 5/8, atualmente trabalho como supervisora de marketing na empresa Muniz Auto Center, estou no migração para área de Tecnologia.
+  Meu nome é Sophia Machado, estudante de Engenharia de Software 6/8, atualmente trabalho como supervisora de marketing na empresa Muniz Auto Center, estou migrando para área de Tecnologia.
 
   <p align="left"> 
     Procuro aplicar meus conhecimentos tanto para área de gestão de projetos quanto no desenvolvimento a nivel de codigo quanto criações de processos com foco em qualidade e resultados. Domínio Espanhol e inglês intermediário.
