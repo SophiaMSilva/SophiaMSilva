@@ -34,7 +34,7 @@
 <br clear="all"/>
 
 <p align="left">
-  🚀 Meu app: <img src="assets/nucleo-85x20.png" alt="Núcleo" width="85" height="20" align="absmiddle"/>
+  🚀 Meu app: <img src="assets/nucleo-85x20.png" alt="Núcleo" width="130" height="40" align="absmiddle"/>
 </p>
 
 <p align="left">
