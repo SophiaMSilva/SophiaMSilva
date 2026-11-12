@@ -9,21 +9,21 @@ Meu nome é **Sophia Machado**, estudante de Engenharia de Software (3/4). Atual
 Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **criação de processos**, com foco em qualidade e resultados. Espanhol e inglês intermediários.
 
 ### 🛠️ Stack
-**💻 Desenvolvimento**
+**Desenvolvimento: **
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser.js-8E44AD?style=flat-square)
 
-**🧰 Ferramentas**
+**Ferramentas: **
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Project Libre](https://img.shields.io/badge/Project_Libre-4B5563?style=flat-square)
 
-**🗄️ Banco de dados**
+**Banco de dados: **
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
