@@ -26,7 +26,9 @@ Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **cr
 - 🎲 MongoDB
 
 ### 🚀 Meu app
-<img src="assets/nucleo-85x20.png" alt="Núcleo" width="130" height="40" align="absmiddle"/>
+<img src="assets/nucleo-icone-256.png" alt="Núcleo" width="90" align="right"/>
+
+<p align="center"><img src="assets/nucleo-intro.gif" alt="Intro do Núcleo" width="480"/></p>
 
 Projeto autoral para organizar o dia a dia de uma equipe de marketing:
 
