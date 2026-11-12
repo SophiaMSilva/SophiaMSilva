@@ -23,7 +23,7 @@ Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **cr
 ### 🌱 Em processo
 - 📚 Certificação Green Belt
 - 🎯 Desenvolvendo uma aplicação com LLM
-- 🎮 
+- 🎲 MongoDB
 
 ### 🚀 Meu app
 <img src="assets/nucleo-85x20.png" alt="Núcleo" width="130" height="40" align="absmiddle"/>
