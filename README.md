@@ -28,9 +28,9 @@ Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **cr
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### 🌱 Em processo
-- 📚 Certificação Green Belt
-- 🎯 Desenvolvendo uma aplicação com LLM
-- 🎲 MongoDB
+-  Certificação Green Belt
+-  Desenvolvendo uma aplicação com LLM
+-  MongoDB
 
 ### <img src="assets/nucleo-icone-256.png" alt="Núcleo" width="28" align="absmiddle"/> Meu app
 
@@ -39,11 +39,11 @@ Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **cr
 
 Projeto autoral para organizar o dia a dia de uma equipe de marketing:
 
-- 📋 **Gestão de Demandas**
-- 📞 **Chamadas internas**
-- 🗓️ **Calendário de demandas**
-- 📚 **Biblioteca**
-- 📣 **Operações de Marketing** (integração via token Meta)
+-  **Gestão de Demandas**
+-  **Chamadas internas**
+-  **Calendário de demandas**
+-  **Biblioteca**
+-  **Operações de Marketing** (integração via token Meta)
 
 ### 💌 Vamos conversar
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophiamachadosilva07@gmail.com)
