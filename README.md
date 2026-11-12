@@ -30,3 +30,19 @@
   <a href="https://www.instagram.com/sophiammons/" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/sophiammons/" alt="https://www.instagram.com/sophiammons/"/></a>
 </p>
+
+<br clear="all"/>
+
+<p align="left">
+  🚀 Meu app: <img src="assets/nucleo-85x20.png" alt="Núcleo" width="85" height="20" align="absmiddle"/>
+</p>
+
+<p align="left">
+  Projeto autoral para organizar o dia a dia de uma equipe de marketing, com:
+</p>
+
+- 📋 **Gestão de Demandas**
+- 📞 **Chamadas internas**
+- 🗓️ **Calendário de demandas**
+- 📚 **Biblioteca**
+- 📣 **Operações de Marketing** (integração via token Meta)
