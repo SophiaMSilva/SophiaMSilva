@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:6b21a8,100:db2777&height=140&section=header&text=SOPHIA%20MACHADO&fontSize=44&fontColor=ffffff&fontAlignY=45" width="100%"/>
-
-<img src="assets/digivice.svg" width="480" alt="Digivice com Lilithmon"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0014,50:6b21a8,100:db2777&height=230&section=header&text=SOPHIA%20MACHADO&fontSize=48&fontColor=f5d0fe&animation=twinkling&fontAlignY=40&desc=%E2%80%A2%20DIGIVICE%20ONLINE%20%E2%80%A2%20PARTNER%3A%20LILITHMON%20%E2%80%A2&descSize=16&descColor=f0abfc&descAlignY=62" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&pause=1500&duration=3000&color=E879F9&center=true&vCenter=true&width=700&height=45&lines=%3E+INICIANDO+DIGIVICE...;%3E+DIGIMON+DETECTADO%3A+LILITHMON+%E2%9C%A6;%3E+USUARIA%3A+Sophia+Machado;%3E+CLASSE%3A+Engenharia+de+Software+(6%2F8);%3E+MISS%C3%83O%3A+Marketing+%E2%86%92+Tecnologia;%3E+PR%C3%93XIMO+N%C3%8DVEL%3A+Product+Owner+%7C+SCRUM" alt="Digivice terminal" />
 
