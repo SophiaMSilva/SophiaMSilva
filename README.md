@@ -25,7 +25,7 @@ Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **cr
 - 🎯 Desenvolvendo uma aplicação com LLM
 - 🎲 MongoDB
 
-### <img src="assets/nucleo-icone-256.png" alt="Núcleo" width="32" align="right"/> Meu app
+### <img src="assets/nucleo-icone-256.png" alt="Núcleo" width="28" align="absmiddle"/> Meu app
 
 
 <p align="center"><img src="assets/nucleo-intro.gif" alt="Intro do Núcleo" width="480"/></p>
