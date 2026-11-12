@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:c026d3&height=130&section=header&text=Ol%C3%A1%2C%20eu%20sou%20a%20Sophia%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&fontAlignY=45" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:6d28d9,100:c026d3&height=130&section=header&text=N%C3%9ACLEO&fontSize=42&fontColor=ffffff&fontAlignY=45" width="100%"/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="380"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=C084FC&width=420&lines=Engenharia+de+Software+6%2F8;Marketing+%E2%86%92+Tecnologia;Futura+Product+Owner+%7C+SCRUM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=C084FC&width=550&lines=Founder+%26+CEO+%7C+N%C3%BAcleo;Engenharia+de+Software;Gerente+de+Marketing;Gestora+de+Processos" />
 
-Meu nome é **Sophia Machado**, estudante de Engenharia de Software (6/8). Trabalho como supervisora de marketing na **Muniz Auto Center** e estou migrando para a área de **Tecnologia**.
+Meu nome é **Sophia Machado**, estudante de Engenharia de Software (3/4). Atualmente atuo como Gerente de marketing na **Muniz Auto Center** e estou migrando para a área de **Tecnologia**.
 
 Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **criação de processos**, com foco em qualidade e resultados. Espanhol e inglês intermediários.
 
@@ -20,10 +20,10 @@ Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **cr
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Project Libre](https://img.shields.io/badge/Project_Libre-4B5563?style=flat-square)
 
-### 🌱 Agora
-- 📚 Estudando Python
-- 🎯 Me preparando para atuar como PO com SCRUM
-- 🎮 Fã de Digimon (time Lilithmon 💜)
+### 🌱 Em processo
+- 📚 Certificação Green Belt
+- 🎯 Desenvolvendo uma aplicação com LLM
+- 🎮 
 
 ### 🚀 Meu app
 <img src="assets/nucleo-85x20.png" alt="Núcleo" width="130" height="40" align="absmiddle"/>
