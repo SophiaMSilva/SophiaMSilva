@@ -14,9 +14,11 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=C084FC&width=550&lines=Founder+%26+CEO+%7C+N%C3%BAcleo;Engenharia+de+Software;Gerente+de+Marketing;Gestora+de+Processos" />
 
-Meu nome é **Sophia Machado**, estudante de Engenharia de Software (3/4). Atualmente atuo como Gerente de marketing na **Muniz Auto Center** e estou migrando para a área de **Tecnologia**.
+Meu nome é **Sophia Machado**, sou fundadora e CEO do Núcleo, sistema desenvolvido escaalavel, desenvolvido para suprir necessidades de pequenas, média e até mesmo rede de empresas. Pensado em um formato dinâmico e pratico, para aplicação de processo e organização de demandas, surge o Núcleo, com a proposta de centralizar informações, medir produtividade, tudo que você precisa, para solicitar e acompanhar todas as demandas que ocorrem no seu setor.
 
-Aplico meus conhecimentos em **gestão de projetos**, **desenvolvimento** e **criação de processos**, com foco em qualidade e resultados. Espanhol e inglês intermediários.
+Conto com usúarios em distintos nichos, como Marketing, Juridico, Comercial e RH. Atualmente atuo como Gerente de Marketing na **Muniz Auto Center**, em simultaneo desenvolvo, realizo manutenção e implemento, novas ferramentas para melhorar o dia a dia, e medir melhorias a largo prazo, além disso realizo a graduação de Engenharia de Software (3/4).
+
+Possuo Espanhol Avançado e inglês intermediários.
 
 ### 🛠️ Stack
 Desenvolvimento: 
