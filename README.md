@@ -14,11 +14,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=C084FC&width=550&lines=Founder+%26+CEO+%7C+N%C3%BAcleo;Engenharia+de+Software;Gerente+de+Marketing;Gestora+de+Processos" />
 
-Meu nome é **Sophia Machado**, sou fundadora e CEO do Núcleo, sistema desenvolvido escaalavel, desenvolvido para suprir necessidades de pequenas, média e até mesmo rede de empresas. Pensado em um formato dinâmico e pratico, para aplicação de processo e organização de demandas, surge o Núcleo, com a proposta de centralizar informações, medir produtividade, tudo que você precisa, para solicitar e acompanhar todas as demandas que ocorrem no seu setor.
+Sou Sophia Machado, fundadora e CEO do Núcleo, um sistema escalável desenvolvido para atender às necessidades de pequenas, médias e grandes empresas, incluindo redes corporativas.
 
-Conto com usúarios em distintos nichos, como Marketing, Juridico, Comercial e RH. Atualmente atuo como Gerente de Marketing na **Muniz Auto Center**, em simultaneo desenvolvo, realizo manutenção e implemento, novas ferramentas para melhorar o dia a dia, e medir melhorias a largo prazo, além disso realizo a graduação de Engenharia de Software (3/4).
+Pensado para oferecer uma experiência dinâmica, prática e intuitiva, o Núcleo tem como propósito centralizar informações, organizar processos, gerenciar demandas e acompanhar indicadores de produtividade. A plataforma permite que empresas estruturem seus fluxos de trabalho, solicitem serviços internos e acompanhem cada etapa das atividades realizadas pelos diferentes setores.
 
-Possuo Espanhol Avançado e inglês intermediários.
+Atualmente, o sistema atende usuários de diferentes segmentos, como Marketing, Jurídico, Comercial e Recursos Humanos, com uma proposta de gestão integrada e adaptável à realidade de cada negócio.
+
+Paralelamente ao empreendedorismo, atuo como Gerente de Marketing na Muniz Auto Center, onde trabalho com gestão de processos, desenvolvimento de soluções, implementação de ferramentas e otimização de operações. Meu foco está em identificar oportunidades de melhoria, desenvolver soluções tecnológicas e acompanhar seus resultados a curto e longo prazo.
+
+Também estou cursando Engenharia de Software (3º ano de 4), buscando ampliar meus conhecimentos em desenvolvimento de sistemas, arquitetura de software e inovação tecnológica, conectando a experiência prática de gestão às possibilidades da tecnologia.
+
+Idiomas:
+
+Espanhol: Avançado.
+Inglês: Intermediário.
 
 ### 🛠️ Stack
 Desenvolvimento: 
