@@ -7,8 +7,8 @@
   <img
     src="assets/nucleo-icone-256.png"
     alt="Núcleo"
-    width="120"
-    style="position: relative; z-index: 2; margin-top: 10px;"
+    width="110"
+    style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;"
   />
 </div>
 
